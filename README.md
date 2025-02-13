@@ -1,5 +1,4 @@
 # Coffee Sales Dashboard
-![Coffee Background Banner (4)](Coffee.jpeg)
 <img src="Coffee.jpeg" width="50%">
 
 ## Overview : 
