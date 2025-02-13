@@ -19,4 +19,4 @@ I have noticed that the bottom products for all the stores include some flavours
 
 ## Dashboard :
 <img src="./Coffee Sales Dashboard.png" width="3000" height="600"/>&nbsp;
-<img src="Coffee Sales Dashboard.png" width="50%">
+<img src="Coffee Sales Dashboard.png" width="80%">
