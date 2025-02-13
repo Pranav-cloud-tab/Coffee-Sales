@@ -1,4 +1,4 @@
-# Coffee Sales Dashboard
+# Coffee Sales 
 <img src="Coffee.jpeg" width="50%">
 
 ## Overview : 
